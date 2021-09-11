@@ -14,9 +14,9 @@
 
 <div>
   <h3> 💻 Languages and Tools </h3>
-   💻 &nbsp; HTML| CSS | javascript | React | Nodejs |Expressjs
-   🖥 &nbsp; MYSQL | MongoDB
-   🖥 &nbsp; illustrator | photoshop |inDesign
+   -  💻 &nbsp; HTML| CSS | javascript | React | Nodejs |Expressjs
+   -  🖥 &nbsp; MYSQL | MongoDB
+   -  🖥 &nbsp; illustrator | photoshop |inDesign
 </div> 
 
 ⭐️ From [MujahidAli954](https://github.com/MujahidAli954)
