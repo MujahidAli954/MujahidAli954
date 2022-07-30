@@ -1,7 +1,7 @@
 ### Hey Mujahid here 👋
 
 ---
-![image](https://user-images.githubusercontent.com/84895024/181904511-79b0cec2-6692-44b0-8e44-eee663b5d5b1.png)
+![image](https://user-images.githubusercontent.com/84895024/181906698-307ec5f7-4f2b-4fe3-b5ea-4fc6e8d13d69.png)
 
 
 I am a **MERN-stack Developer** who is exploring web 3.0 while facilitating the world with User Experience with my Design Thinking Skills and Enthusiast about Blockchain:
@@ -46,29 +46,18 @@ I am a **MERN-stack Developer** who is exploring web 3.0 while facilitating the 
 
 ---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Souravdey777&show_icons=true&hide_border=true)
+[![Mujahid's GitHub stats](https://github-readme-stats.vercel.app/api?username=MujahidAli954)](https://github.com/MujahidAli954/github-readme-stats)
 
-Check for a detailed stats here :point_right: [Sourcerer](https://sourcerer.io/souravdey777)
 
 ---
 
 
 ### You can find in me in the web 🌍
 [<img align="left" alt="Souarvdey777" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Souarvdey777 | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
 [<img align="left" alt="Souarvdey777 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Souarvdey777 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Souarvdey777 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
 
 <br/>
-
-
----
-### You can checkout my blogs :loudspeaker: 
-
-[![Sourav Dey's Blog Cards](https://github-cards-external-blogs.souravdey777.vercel.app/getMediumBlogs?username=Souravdey777&type=vertical)](https://medium.com/@Souravdey777)
-
-[Add your blogs to your github profile using my Github Blog Cards](https://github.com/Souravdey777/Github-Cards-External-Blogs) 
 
 ---
 
@@ -76,12 +65,8 @@ Let's connect 👨‍💻 and forge the future together.😁✌
 
 **Check the Repositories and don't forget to give a star.** 👇
 
-:star: From [Souravdey777](https://github.com/Souravdey777)
 
-[website]: https://souravdey777.github.io/Portfolio/
-[twitter]: https://twitter.com/Souravdey777
-[youtube]: https://youtube.com/
-[instagram]: https://www.instagram.com/souravdey777/
-[linkedin]: https://www.linkedin.com/in/sourav-dey/
-[medium]: https://medium.com/@Souravdey777/
+[website]: https://mdali.herokuapp.com/
+[twitter]: https://twitter.com/Mujahidali7864
+
 ⭐️ From [MujahidAli954](https://github.com/MujahidAli954)
