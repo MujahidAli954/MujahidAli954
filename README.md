@@ -12,7 +12,7 @@ I am a **MERN-stack Developer** who is exploring web 3.0 while facilitating the 
  💼   I’m currently working on Full Stack Development projects.                                                                                                       
  🌱   Learning more about Backend Architectures and Frontend Developement.                                                                                             
  
- 👯 I’m looking to collaborate for a Web 3.0 application  **DApp**.                                                                                                     
+ 👯 I’m looking to collaborate for a Web 3.0 applications **DApp**.                                                                                                     
  💬 Ask me about Full Stack Development and any Tech-related stuff.
 
 
