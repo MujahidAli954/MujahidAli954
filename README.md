@@ -4,15 +4,15 @@
 ![image](https://user-images.githubusercontent.com/84895024/181906698-307ec5f7-4f2b-4fe3-b5ea-4fc6e8d13d69.png)
 
 
-I am a **MERN-stack Developer** who is exploring web 3.0 while facilitating the world with User Experience with my Design Thinking Skills and Enthusiast about Blockchain:
+I am a **MERN-Stack Developer** who is exploring web 3.0 while facilitating the world with User Experience with my Design Thinking Skills and Enthusiast about **Blockchain**:
  
- 🌱 I’m currently learning **web 3.0**                                                                                                                                 
+ 🌱 I’m currently learning **Web 3.0**                                                                                                                                 
  🤔   Exploring new technologies and developing software solutions and quick hacks.                                                                                   
  🎓   Studying Computer Science and Engineering.                                                                                                                       
  💼   I’m currently working on Full Stack Development projects.                                                                                                       
  🌱   Learning more about Backend Architectures and Frontend Developement.                                                                                             
  
- 👯 I’m looking to collaborate for a Web 3.0 applications **DApp**.                                                                                                     
+ 👯 I’m looking to collaborate for a **Web 3.0** applications **DApps**.                                                                                                     
  💬 Ask me about Full Stack Development and any Tech-related stuff.
 
 
